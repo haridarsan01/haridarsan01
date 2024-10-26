@@ -12,24 +12,8 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
 
 
 ## 🛠️ Skills
-<style>
-  ul {
-    list-style: none; /* Removes bullet points */
-    padding: 0;      /* Removes padding */
-    margin: 0;       /* Removes margin */
-    display: flex;   /* Displays the list items in a row */
-    flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
-  }
-  
-  li {
-    margin-right: 20px; /* Adds space between items */
-    display: flex; /* Aligns icons and text horizontally */
-    align-items: center; /* Centers items vertically */
-  }
-</style>
-
-<ul>
-  <li> 
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap;">
+  <li style="margin-right: 20px;"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
     </a> 
@@ -39,7 +23,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a> 
     JavaScript
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="20" height="20"/>
     </a>
@@ -49,7 +33,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a>
     Plotly
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>
     </a>
@@ -59,7 +43,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a>
     Keras
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     </a>
@@ -69,7 +53,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a>
     AWS
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/>
     </a>
@@ -79,7 +63,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a>
     NumPy
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
     </a>
@@ -89,7 +73,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a>
     Express.js
   </li>
-  <li>
+  <li style="margin-right: 20px;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
     </a>
@@ -104,6 +88,7 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     CSS
   </li>
 </ul>
+
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavusikan-15&layout=compact&theme=radical)](https://github.com/kavusikan-15/github-readme-stats)
