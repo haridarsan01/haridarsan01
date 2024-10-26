@@ -93,17 +93,6 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
 </ul>
 
 
-### 
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
-  <li><strong>Backend:</strong> Node.js, Express.js</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB</li>
-  <li><strong>Tools:</strong> Git, AWS</li>
-  <li><strong>Data Analysis:</strong> Pandas, NumPy, Matplotlib, Seaborn</li>
-  <li><strong>Machine Learning:</strong> Scikit-Learn, TensorFlow, Keras</li>
-  <li><strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly</li>
-</ul>
-
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavusikan-15&layout=compact&theme=radical)](https://github.com/kavusikan-15/github-readme-stats)
 
