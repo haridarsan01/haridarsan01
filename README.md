@@ -30,21 +30,13 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="20" height="20"/>
     </a>
-    Matplotlib, 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="20" height="20"/>
-    </a>
-    Seaborn, 
+    Matplotlib,  
     <a href="https://plotly.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="20" height="20"/>
     </a>
     Plotly
   </li>
   <li>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="20" height="20"/>
-    </a>
-    Scikit-Learn, 
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>
     </a>
