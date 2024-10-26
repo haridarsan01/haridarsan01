@@ -12,6 +12,21 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
 
 
 ## 🛠️ Skills
+<style>
+  ul {
+    list-style: none; /* Removes bullet points */
+    padding: 0;      /* Removes padding */
+    margin: 0;       /* Removes margin */
+    display: flex;   /* Displays the list items in a row */
+    flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+  }
+  
+  li {
+    margin-right: 20px; /* Adds space between items */
+    display: flex; /* Aligns icons and text horizontally */
+    align-items: center; /* Centers items vertically */
+  }
+</style>
 
 <ul>
   <li> 
