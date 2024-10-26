@@ -2,13 +2,13 @@
 
 A passionate Full Stack Developer and Data Science enthusiast from India.
 
-- 👨‍💻 Explore my projects at [My GitHub](https://github.com/kavusikan-15)
-- 📫 How to reach me: kavusikanjk15@gmail.com
-- ⚡ Fun fact: I love learning new things and exploring data insights!
+- 👨‍💻 Explore my projects at [My GitHub](https://github.com/haridarsan01)
+- 📫 How to reach me: haridarsan01@gmail.com
+- 🔥 In a nutshell: My ideal day? When my model accuracy improves by 0.01%!
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer and Data Scientist with a knack for building efficient and scalable web applications and extracting insights from data. My expertise lies in frontend and backend technologies as well as machine learning and data analysis, ensuring a seamless experience from data to deployment.
+I'm a B.Tech student specializing in Data Science, with expertise in extracting insights and building machine learning models to solve complex problems. Alongside my focus on data science, I am familiar with various data science tools and technologies, and also possess strong skills in web development. This combination enables me to deliver end-to-end solutions, from data analysis to deployment.
 
 ## 🛠️ Skills
 
