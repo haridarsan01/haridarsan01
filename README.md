@@ -26,16 +26,12 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
   </li>
 </ul>
 
-### Full Stack Development
+### 
 <ul>
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
   <li><strong>Backend:</strong> Node.js, Express.js</li>
   <li><strong>Databases:</strong> MySQL, MongoDB</li>
   <li><strong>Tools:</strong> Git, AWS</li>
-</ul>
-
-### Data Science & Machine Learning
-<ul>
   <li><strong>Data Analysis:</strong> Pandas, NumPy, Matplotlib, Seaborn</li>
   <li><strong>Machine Learning:</strong> Scikit-Learn, TensorFlow, Keras</li>
   <li><strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly</li>
