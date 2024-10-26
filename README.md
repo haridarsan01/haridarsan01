@@ -10,9 +10,22 @@ A passionate Full Stack Developer and Data Science enthusiast from India.
 
 I'm a B.Tech student specializing in Data Science, with expertise in extracting insights and building machine learning models to solve complex problems. Alongside my focus on data science, I am familiar with various data science tools and technologies, and also possess strong skills in web development. This combination enables me to deliver end-to-end solutions, from data analysis to deployment.
 
+<style>
+  ul {
+    list-style: none; /* Removes bullet points */
+    padding: 0;      /* Removes padding */
+    margin: 0;       /* Removes margin */
+    display: flex;   /* Displays the list items in a row */
+    flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+  }
+  
+  li {
+    margin-right: 20px; /* Adds space between items */
+  }
+</style>
+
 ## 🛠️ Skills
 
-### Programming Languages
 <ul>
   <li> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -24,8 +37,6 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     </a> 
     JavaScript
   </li>
-</ul>
-<ul>
   <li>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="20" height="20"/>
@@ -91,7 +102,6 @@ I'm a B.Tech student specializing in Data Science, with expertise in extracting 
     CSS
   </li>
 </ul>
-
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavusikan-15&layout=compact&theme=radical)](https://github.com/kavusikan-15/github-readme-stats)
