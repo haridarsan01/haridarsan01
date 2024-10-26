@@ -10,19 +10,6 @@ A passionate Full Stack Developer and Data Science enthusiast from India.
 
 I'm a B.Tech student specializing in Data Science, with expertise in extracting insights and building machine learning models to solve complex problems. Alongside my focus on data science, I am familiar with various data science tools and technologies, and also possess strong skills in web development. This combination enables me to deliver end-to-end solutions, from data analysis to deployment.
 
-<style>
-  ul {
-    list-style: none; /* Removes bullet points */
-    padding: 0;      /* Removes padding */
-    margin: 0;       /* Removes margin */
-    display: flex;   /* Displays the list items in a row */
-    flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
-  }
-  
-  li {
-    margin-right: 20px; /* Adds space between items */
-  }
-</style>
 
 ## 🛠️ Skills
 
